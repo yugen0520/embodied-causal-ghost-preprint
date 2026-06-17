@@ -17,9 +17,22 @@ Physical understanding in embodied agents requires more than predicting regular 
 - `journal_package.zip`: PDF, source, BibTeX, figure, and compile instructions.
 - `submission_metadata.md`: title, abstract, category suggestion, and upload metadata.
 
+## DOI
+
+https://doi.org/10.5281/zenodo.20729232
+
 ## Citation
 
-A DOI can be added here after Zenodo publication.
+```bibtex
+@misc{yugen2026movability,
+  author       = {Yugen},
+  title        = {Intervention-Based Movability Representations in Minimalist Embodied Predictive Agents},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20729232},
+  url          = {https://doi.org/10.5281/zenodo.20729232}
+}
+```
 
 ## Status
 
