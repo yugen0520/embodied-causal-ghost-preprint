@@ -1,0 +1,30 @@
+{
+  "title": "Intervention-Based Movability Representations in Minimalist Embodied Predictive Agents",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "This preprint studies whether minimalist embodied predictive agents can form movability-sensitive internal representations from intervention-driven experience. The work uses a 2D embodied world, vector causal perturbation diagnostics, causal-swap tests, blind generalization, temporal and noise perturbations, visual shortcut tests, distillation, and 3D stress tests. The central result is cautious: shortcut-deprived sensor agents form stable movability-like representations, while raw visual and 3D settings expose major unresolved limits.",
+  "creators": [
+    {
+      "name": "Yugen"
+    }
+  ],
+  "keywords": [
+    "embodied AI",
+    "causal representation learning",
+    "world models",
+    "self-supervised learning",
+    "intervention",
+    "movability",
+    "physical reasoning"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/yugen0520/embodied-causal-ghost-preprint",
+      "scheme": "url"
+    }
+  ]
+}
