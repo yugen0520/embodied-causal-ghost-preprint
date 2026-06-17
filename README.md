@@ -19,7 +19,13 @@ Physical understanding in embodied agents requires more than predicting regular 
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.20729232
+Stable concept DOI:
+
+https://doi.org/10.5281/zenodo.20729231
+
+Latest version DOI:
+
+https://doi.org/10.5281/zenodo.20729590
 
 ## Citation
 
@@ -29,8 +35,8 @@ https://doi.org/10.5281/zenodo.20729232
   title        = {Intervention-Based Movability Representations in Minimalist Embodied Predictive Agents},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20729232},
-  url          = {https://doi.org/10.5281/zenodo.20729232}
+  doi          = {10.5281/zenodo.20729231},
+  url          = {https://doi.org/10.5281/zenodo.20729231}
 }
 ```
 
