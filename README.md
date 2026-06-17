@@ -27,6 +27,18 @@ Latest version DOI:
 
 https://doi.org/10.5281/zenodo.20729590
 
+## OSF/PsyArXiv
+
+Submitted preprint page:
+
+https://osf.io/preprints/psyarxiv/4q9ab_v1
+
+OSF project and supplemental materials:
+
+https://osf.io/pr3xn/
+
+PsyArXiv uses pre-moderation. The preprint page may remain pending until moderator approval, and OSF will create the preprint DOI after approval.
+
 ## Citation
 
 ```bibtex
@@ -42,4 +54,4 @@ https://doi.org/10.5281/zenodo.20729590
 
 ## Status
 
-Preprint package prepared for public release and DOI archiving.
+Preprint package released on GitHub and Zenodo, with OSF/PsyArXiv submission pending moderator approval.
